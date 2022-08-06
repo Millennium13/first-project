@@ -1,0 +1,10 @@
+.name{
+    color: #fff;
+    max-width: 80%;
+    display: flex;
+    margin-top: 25px;
+}
+.name img{
+    width: 200px;
+    height: 125px;
+}

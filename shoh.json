@@ -1,0 +1,34 @@
+{
+    "fruits":[
+        {
+            "id": 1,
+            "title": "Olma",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad in ea nihil optio, vel ipsa nemo at voluptatibus cumque fugiat doloremque molestiae minima? Libero numquam iusto voluptate officiis deserunt.",
+            "image": "https://yuz.uz/imageproxy/1200x/https://yuz.uz/file/news/5ea8628e327407e62b43646fdc6e4915.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Anor",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad in ea nihil optio, vel ipsa nemo at voluptatibus cumque fugiat doloremque molestiae minima? Libero numquam iusto voluptate officiis deserunt.",
+            "image": "https://zamin.uz/uploads/posts/2019-11/1572800181_pomegrantejuice.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Shaftoli",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad in ea nihil optio, vel ipsa nemo at voluptatibus cumque fugiat doloremque molestiae minima? Libero numquam iusto voluptate officiis deserunt.",
+            "image": "https://xs.uz/upload/post/2020/08/26/cde1a0332848e38790e9e961ed5922b50826.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Uzum",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad in ea nihil optio, vel ipsa nemo at voluptatibus cumque fugiat doloremque molestiae minima? Libero numquam iusto voluptate officiis deserunt.",
+            "image": "https://zira.uz/wp-content/uploads/2017/10/img_9807.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Hurmo",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad in ea nihil optio, vel ipsa nemo at voluptatibus cumque fugiat doloremque molestiae minima? Libero numquam iusto voluptate officiis deserunt.",
+            "image": "https://sirstat.uz/images/yangiliklar/10-09-2021/hurmo.jpg"
+        }    
+    ]
+}

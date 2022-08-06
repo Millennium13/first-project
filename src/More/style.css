@@ -1,0 +1,43 @@
+.gallery{
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.rasm img{
+    margin-top: 30px;
+    width: 475px;
+    height: 375px;
+}
+.edit{
+    display: flex;
+}
+.matn h1{
+    color: rgb(35, 15, 148);
+    margin-left: 50px;
+}
+.matn p{
+    color: #fff;
+    margin-left: 50px;
+    font-weight: 400;
+    font-size: 25px;
+}
+.btn{
+    display: flex;
+    margin-left: 275px;
+}
+.btn button{
+    margin-left: 50px;
+    height: 50px;
+}
+.btn p{
+    margin-top: 5px;
+}
+.add{
+    margin-top: 25px;
+    margin-left: 350px;
+}
+.add button{
+    width: 178px;
+}

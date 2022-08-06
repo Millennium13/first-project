@@ -1,0 +1,11 @@
+.meva{
+    display: flex;
+    justify-content: space-around;
+}
+.mevalar{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+body{
+    background-color: rgb(188, 188, 188);
+}
